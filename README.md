@@ -63,3 +63,10 @@ fonts) it's used automatically: the Propo variant for UI text, Mono for monospac
 | `src/app.rs` | UI |
 
 `cargo test` checks the planner against real seasons (HvV, Winners at War, Australia vs. The World).
+
+## License
+
+Licensed under the GNU Affero General Public License v3.0 or later. See [LICENSE](LICENSE).
+
+The bundled survivoR data in `data/` is not covered by this license; it is MIT-licensed,
+© 2021 Daniel Oehm (see [`data/LICENSE-survivoR.md`](data/LICENSE-survivoR.md)).

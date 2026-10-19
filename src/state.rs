@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Survivor Planner contributors
+
 //! Watched seasons and plan targets, saved as JSON in the app data folder.
 
 use crate::planner::PlanOptions;

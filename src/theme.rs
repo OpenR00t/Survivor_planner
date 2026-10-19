@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 The Survivor Planner contributors
+
 //! Gruvbox dark, green-forward, with CaskaydiaCove picked up from the system if installed.
 
 use eframe::egui::{self, Color32, FontData, FontDefinitions, FontFamily, Stroke};
